@@ -1,3 +1,6 @@
+### Script used for the analysis of canine morphology ###
+### Cherin et al. submitted ###
+
 library(dplyr);library(ggplot2);library(ggsignif);library(ggrepel)
 library(psych);library(gridExtra);library(ggbiplot);library(compositions);library(ggord)
 setwd("~/Dropbox/Marco_Crotti/Maiali/Maiali/")
